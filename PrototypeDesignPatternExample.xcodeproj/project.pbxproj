@@ -16,6 +16,9 @@
 		C699F63F2A66A5790002A798 /* PrototypeDesignPatternExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C699F63E2A66A5790002A798 /* PrototypeDesignPatternExampleTests.swift */; };
 		C699F6492A66A5790002A798 /* PrototypeDesignPatternExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C699F6482A66A5790002A798 /* PrototypeDesignPatternExampleUITests.swift */; };
 		C699F64B2A66A5790002A798 /* PrototypeDesignPatternExampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C699F64A2A66A5790002A798 /* PrototypeDesignPatternExampleUITestsLaunchTests.swift */; };
+		C699F6582A66C3E90002A798 /* NameClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = C699F6572A66C3E90002A798 /* NameClass.swift */; };
+		C699F6592A66C3E90002A798 /* NameClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = C699F6572A66C3E90002A798 /* NameClass.swift */; };
+		C699F65A2A66C3E90002A798 /* NameClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = C699F6572A66C3E90002A798 /* NameClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,7 @@
 		C699F6442A66A5790002A798 /* PrototypeDesignPatternExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PrototypeDesignPatternExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C699F6482A66A5790002A798 /* PrototypeDesignPatternExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrototypeDesignPatternExampleUITests.swift; sourceTree = "<group>"; };
 		C699F64A2A66A5790002A798 /* PrototypeDesignPatternExampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrototypeDesignPatternExampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C699F6572A66C3E90002A798 /* NameClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,7 @@
 				C699F6302A66A5780002A798 /* Assets.xcassets */,
 				C699F6322A66A5780002A798 /* LaunchScreen.storyboard */,
 				C699F6352A66A5780002A798 /* Info.plist */,
+				C699F6572A66C3E90002A798 /* NameClass.swift */,
 			);
 			path = PrototypeDesignPatternExample;
 			sourceTree = "<group>";
@@ -259,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C699F62C2A66A5750002A798 /* ViewController.swift in Sources */,
+				C699F6582A66C3E90002A798 /* NameClass.swift in Sources */,
 				C699F6282A66A5750002A798 /* AppDelegate.swift in Sources */,
 				C699F62A2A66A5750002A798 /* SceneDelegate.swift in Sources */,
 			);
@@ -269,6 +275,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C699F63F2A66A5790002A798 /* PrototypeDesignPatternExampleTests.swift in Sources */,
+				C699F6592A66C3E90002A798 /* NameClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,6 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C699F6492A66A5790002A798 /* PrototypeDesignPatternExampleUITests.swift in Sources */,
+				C699F65A2A66C3E90002A798 /* NameClass.swift in Sources */,
 				C699F64B2A66A5790002A798 /* PrototypeDesignPatternExampleUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
